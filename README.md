@@ -4,9 +4,9 @@
 
 ### About the project
 
-* Item 1
-* Item 2
-* Item 3
+- Item 1
+- Item 2
+- Item 3
 
 1. First Item
 2. Second Item
@@ -20,12 +20,14 @@ _This text is italicized_
 
 ![Image of my project](Butter.jpeg)
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
+| Column 1        | Column 2        | Column 3        |
+| --------------- | --------------- | --------------- |
 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
 | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 
 This is a line of text.<br>
 This is another line of text.
+
 ---
+
 This is a horizontal rule.
